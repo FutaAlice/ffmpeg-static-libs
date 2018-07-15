@@ -68,6 +68,12 @@ See [releases](https://github.com/FutaAlice/ffmpeg-static-libs/releases) page.
 
 ## Version
 
+- [ ] 3.3.6 ~ 3.3.8
+- [ ] 3.3.5
+- [ ] 3.3.4
+- [ ] 3.3.3
+- [ ] 3.3.2
+- [ ] 3.3.1
 - [ ] 3.2.5 ~ 3.2.8
 - [x] 3.2.4
 - [ ] 3.2.3
