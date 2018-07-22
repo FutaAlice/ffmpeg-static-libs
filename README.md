@@ -79,7 +79,7 @@ See [releases](https://github.com/FutaAlice/ffmpeg-static-libs/releases) page.
 - [x] 3.3.1
 - [ ] ~~from 3.2.5 to 3.2.8~~
 - [x] 3.2.4
-- [ ] 3.2.3
+- [ ] ~~3.2.3~~
 - [x] 3.2.2
 - [x] 3.2.1
 - [ ] ~~from 3.1.6 to 3.1.11~~
